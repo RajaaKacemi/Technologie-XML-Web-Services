@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "C:\Users\rakac\Downloads\tp1\file.dtd">
+<releve RIB="">
+    <dateReleve>2024-11-16</dateReleve>
+    <solde>7000</solde>
+    <operations dateDebut="2024-11-17" dateFin="2024-11-20">
+        <operation date="2024-11-18" montant="3500" type="DEBIT" descripion="operation1"/>
+        <operation date="2024-11-19" montant="55" type="CREFIT" descripion="operation2"/>
+        <operation date="2024-11-20" montant="900" type="DEBIT" descripion="operation3"/>
+    </operations>
+</releve>
